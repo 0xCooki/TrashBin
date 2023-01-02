@@ -13,7 +13,7 @@ Deployed on Ethereum Mainnet at [0xf43a8DD18Bf488825caE7E8B5A8693e3423fE4f5](htt
 
 Independently audited by PopBlocks.
 
-Local testing via command 'npx hardhat test ./test/TrashBin.js'
+Local testing via command `npx hardhat test ./test/TrashBin.js`
 
 ### Socials
 
