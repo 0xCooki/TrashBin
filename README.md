@@ -19,7 +19,7 @@ Deployed on Ethereum Mainnet at [0xf43a8DD18Bf488825caE7E8B5A8693e3423fE4f5](htt
 
 - Follow all instructions on this [page](https://hardhat.org/tutorial/creating-a-new-hardhat-project) beginning from run `npm init`/`yarn init`
 
-- Install OpenZepplin via command from root of repo `npm i @openzeppelin/contracts`
+- Install OpenZeppelin via command from root of repo `npm i @openzeppelin/contracts`
 
 - Ensure that your compiler has enabled using the optimiser on `hardhat.config.js`. More information found [here](https://hardhat.org/hardhat-runner/docs/guides/compile-contracts)
 
